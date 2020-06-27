@@ -1,0 +1,38 @@
+p{
+    
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+    text-align: left;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    
+}
+.index{
+    background-image: url("moreBg.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode: lighten;
+    
+ }
+
+ .columns{
+     display:flex;
+    flex-direction:row;
+    
+}
+.rows{
+        display:flex;
+       flex-direction:column;
+       
+    }
+    h5{
+        color:rgb(52, 20, 255);
+    position: absolute;
+    top:0.5%;
+    left:1%;
+    font-size:large;
+        
+    }
